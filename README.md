@@ -14,6 +14,7 @@ Desenvolvedor front-end em formação. Crio landing pages e sites responsivos em
 
 ## Projetos
 
+- [**Plot Café**](https://github.com/Dev-Erick-Rodrigo/plot-cafe): landing page de uma cafeteria, com menu, avaliações e mapa
 - [**Landing Page Plot Bot**](https://github.com/Dev-Erick-Rodrigo/landing-plotbot): página de apresentação de um bot de moderação para Discord
 - [**Login PlotCell**](https://github.com/Dev-Erick-Rodrigo/login-plotcell): tela de login com efeito de vidro, responsiva
 - [**Portfólio**](https://github.com/Dev-Erick-Rodrigo/portfolio-erick): meu site pessoal
