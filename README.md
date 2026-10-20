@@ -2,7 +2,7 @@
 
 Desenvolvedor front-end em formação. Crio landing pages e sites responsivos em HTML e CSS.
 
-🔗 [Veja meu portfólio](https://quiloren.github.io/portfolio-erick/)
+🔗 [Veja meu portfólio](https://Dev-Erick-Rodrigo.github.io/portfolio-erick/)
 
 ## Tecnologias do meu dia a dia 💻
 
@@ -14,10 +14,10 @@ Desenvolvedor front-end em formação. Crio landing pages e sites responsivos em
 
 ## Projetos
 
-- [**Landing Page Plot Bot**](https://github.com/Quiloren/landing-plotbot): página de apresentação de um bot de moderação para Discord
-- [**Login PlotCell**](https://github.com/Quiloren/login-plotcell): tela de login com efeito de vidro, responsiva
-- [**Portfólio**](https://github.com/Quiloren/portfolio-erick): meu site pessoal
-- [**Iniciante Python**](https://github.com/Quiloren/Iniciante_Python): exercícios de lógica de programação
+- [**Landing Page Plot Bot**](https://github.com/Dev-Erick-Rodrigo/landing-plotbot): página de apresentação de um bot de moderação para Discord
+- [**Login PlotCell**](https://github.com/Dev-Erick-Rodrigo/login-plotcell): tela de login com efeito de vidro, responsiva
+- [**Portfólio**](https://github.com/Dev-Erick-Rodrigo/portfolio-erick): meu site pessoal
+- [**Iniciante Python**](https://github.com/Dev-Erick-Rodrigo/Iniciante_Python): exercícios de lógica de programação
 
 ## Formação
 
