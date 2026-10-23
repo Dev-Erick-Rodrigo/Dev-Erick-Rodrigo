@@ -1,8 +1,8 @@
-### Olá! Eu sou o Erick Rodrigo 👋
+### Olá! Eu sou o Erick Rodrigo 
 
 Desenvolvedor front-end em formação. Crio landing pages e sites responsivos em HTML e CSS.
 
-🔗 [Veja meu portfólio](https://Dev-Erick-Rodrigo.github.io/portfolio-erick/)
+[Veja meu portfólio](https://Dev-Erick-Rodrigo.github.io/portfolio-erick/)
 
 ## Tecnologias do meu dia a dia 💻
 
