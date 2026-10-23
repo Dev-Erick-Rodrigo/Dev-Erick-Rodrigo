@@ -22,4 +22,4 @@ Desenvolvedor front-end em formação. Crio landing pages e sites responsivos em
 
 ## Formação
 
-- Transforme-se, programa PROA com o Serasa (em andamento)
+- Transforme-se, programa PROA com o Serasa de: 01/10/2026 á 04/12/2026
