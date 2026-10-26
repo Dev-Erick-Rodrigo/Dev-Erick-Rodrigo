@@ -10,6 +10,20 @@
 - [**Login PlotCell**](https://github.com/Dev-Erick-Rodrigo/login-plotcell): tela de login com efeito de vidro, responsiva
 - [**Iniciante Python**](https://github.com/Dev-Erick-Rodrigo/Iniciante_Python): exercícios de lógica de programação
 
+
+
+
+
+
+###
+
+<br clear="both">
+
+<div data-importer="stats" align="left">
+  <img src="https://raw.githubusercontent.com/Dev-Erick-Rodrigo/Dev-Erick-Rodrigo/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false&order=1" height="100" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Dev-Erick-Rodrigo/Dev-Erick-Rodrigo/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
 ###
 
 <div data-importer="techs" align="left">
@@ -30,7 +44,7 @@
 
 - Transforme-se, programa PROA com o Serasa de: 01/10/2026 á 04/12/2026
 
-
+###
 
 <div data-importer="socials" align="left">
   <a href="https://www.instagram.com/k16erick" target="_blank">
@@ -43,8 +57,10 @@
 
 ###
 
-<br clear="both">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/Dev-Erick-Rodrigo/Dev-Erick-Rodrigo/snake-output/snake.svg" alt="Snake animation" />
+<div data-importer="music" align="center">
+  <a href="https://open.spotify.com/user/31szv5iv6yujlm4fisb5ugtejfee">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31szv5iv6yujlm4fisb5ugtejfee&count=1" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
