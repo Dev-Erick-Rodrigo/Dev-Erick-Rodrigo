@@ -9,6 +9,7 @@
 - [**Landing Page Plot Bot**](https://github.com/Dev-Erick-Rodrigo/landing-plotbot): página de apresentação de um bot de moderação para Discord
 - [**Login PlotCell**](https://github.com/Dev-Erick-Rodrigo/login-plotcell): tela de login com efeito de vidro, responsiva
 - [**Iniciante Python**](https://github.com/Dev-Erick-Rodrigo/Iniciante_Python): exercícios de lógica de programação
+- [**FlexBlog**](https://github.com/Dev-Erick-Rodrigo/FlexBlog): página flexblog, layout responsivo
 
 
 ###
