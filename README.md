@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="left">Olá! Sejam bem vindos ao meu cérebro! 🧠🪛</h1>
+<h1 data-importer="text" align="left">Crio landing pages que levam clientes pro seu WhatsApp</h1>
 
 ###
 
@@ -6,9 +6,6 @@
 
 - [**Portfólio**](https://github.com/Dev-Erick-Rodrigo/portfolio-erick): meu site pessoal
 - [**Café Plot**]( https://dev-erick-rodrigo.github.io/cafe-plot/): landing page de uma cafeteria, com menu, avaliações e mapa
-- [**Landing Page Plot Bot**](https://github.com/Dev-Erick-Rodrigo/landing-plotbot): página de apresentação de um bot de moderação para Discord
-- [**Login PlotCell**](https://github.com/Dev-Erick-Rodrigo/login-plotcell): tela de login com efeito de vidro, responsiva
-- [**Iniciante Python**](https://github.com/Dev-Erick-Rodrigo/Iniciante_Python): exercícios de lógica de programação
 - [**FlexBlog**](https://github.com/Dev-Erick-Rodrigo/FlexBlog): página flexblog, layout responsivo
 
 
@@ -28,9 +25,9 @@
 
 ###
 
-## Formação
+## 
 
-- Transforme-se, programa PROA com o Serasa de: 01/10/2026 á 04/12/2026
+Landing pages para negócios locais | HTML * CSS
 
 ###
 
